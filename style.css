@@ -121,8 +121,7 @@ span {
   border-bottom: 3px solid transparent;
 }
 
-.navbar a:hover,
-.navbar a.active{
+.navbar a:hover{
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
 }
