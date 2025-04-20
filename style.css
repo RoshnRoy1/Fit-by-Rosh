@@ -168,11 +168,9 @@ span {
 }
 
 #menu-icon {
-  font-size: 3.6rem;
-  cursor: pointer;
-  display: none;
-  color: var(--main-color);
+  display: none !important;
 }
+
 
 /* Home Section Code */
 
